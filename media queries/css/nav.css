@@ -37,6 +37,7 @@ html {
     
     .nav li {
         display: inline-block;
+        border: 0;
     }
     
 }
