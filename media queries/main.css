@@ -18,6 +18,12 @@ html {
 
 @media only screen and (min-width: 500px) {
    
-.title {
+    .title {
     color: green;
 }
+    
+@media only screen and (min-width: 800px) {
+    
+    .title {
+    color: blue;
+    }
