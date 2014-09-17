@@ -11,3 +11,11 @@ html {
 *, *:before, *:after {
     box-sizing: inherit;
 }
+
+.title {
+    color: red;
+}
+
+@media only screen and (min-width: ) {
+    
+}
